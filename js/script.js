@@ -30,16 +30,4 @@ function shopList() {
     document.getElementById("input").value = "";
   }
 }
-{
-  /* <div class='inline'>
-  <div class='m-auto'>
-    <p class='mt-2 p'>
-      خیار
-    </p>
-  </div>
-  <div class='button'>
-    <button class='btn btn-danger btn-sm'>حذف</button>
-    <button class='btn btn-success btn-sm'>خرید انجام شد</button>
-  </div>
-</div>; */
-}
+
