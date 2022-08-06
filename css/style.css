@@ -1,0 +1,34 @@
+@font-face {
+  font-family: mjflow;
+  src: url(../fonts/mj-flow/Mj_Flow\ Regular_0.ttf);
+  src: url(../fonts/mj-flow-bold/Mj_Flow_Bold_0.otf);
+  src: url(../fonts/mj-flow/Mj_Flow_Regular_0.woff);
+}
+.container {
+  width: 80%;
+  height: 140%;
+  border: 2px solid black;
+  border-radius: 3%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  direction: rtl;
+  text-align: right;
+  background-color: rgb(183, 243, 158, 0.8);
+}
+h2 {
+  font-family: mjflow;
+}
+.input-group {
+  font-family: mjflow;
+}
+.p {
+  font-family: mjflow;
+  font-size: 17px;
+  font-weight: 800;
+}
+.inline {
+  display: flex;
+  margin-top: 5px;
+}
+.button {
+  font-family: mjflow;
+}
